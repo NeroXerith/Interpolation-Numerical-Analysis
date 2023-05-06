@@ -6,3 +6,7 @@
 - UI/UX needs improvements (Didn't have enough time)
 - IDE: Visual studio Professional 2022
 - Windows form apps (.NET Framework) C# language
+
+# How to use the software without debugging in IDE?
+- Step1 : open the folder Interpolation Installer
+- Step2 : download all the files after that run the installer
